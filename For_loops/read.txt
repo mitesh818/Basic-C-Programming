@@ -1,0 +1,85 @@
+01.              6. Write a program in C to display the multiplication table of a given integer.
+                                    Test Data :
+                                    Input the number (Table to be calculated) : 15
+                                    Expected Output :
+                                    15 X 1 = 15
+                                    ...
+                                    ...
+                                    15 X 10 = 150
+
+...............................................................................................................................
+
+ 02.                14. Write a program in C to make such a pattern like a pyramid with an asterisk. 
+
+                           * 
+                          * * 
+                         * * * 
+                        * * * *
+
+
+...............................................................................................................................
+
+03.                 13. Write a program in C to make such a pattern like a pyramid with numbers increased by 1. 
+                               1 
+                              2 3 
+                             4 5 6 
+                            7 8 9 10 
+
+
+...............................................................................................................................
+
+04.                18. Write a program in C to find the sum of the series [ 1-X^2/2!+X^4/4!- .........]. 
+                                              Test Data :
+                                      Input the Value of x :2
+                                    Input the number of terms : 5
+                                          Expected Output :
+                                         the sum = -0.415873
+                                         Number of terms = 5
+                                        value of x = 2.00000004.
+
+
+
+...............................................................................................................................
+
+
+05.                        27. Write a c program to check whether a given number is a perfect number or not.
+
+
+
+
+...............................................................................................................................
+
+
+06.                          30. Write a C program to find the Armstrong number for a given range of number.
+                                                    Test Data :
+                                              Input starting number of range: 1
+                                            Input ending number of range : 1000
+                                                   Expected Output :
+                                   Armstrong numbers in given range are: 1 153 370 371 407
+
+
+...............................................................................................................................
+07.                              31. Write a program in C to display the pattern like a diamond. Go to the editor
+
+                                                              *
+                                                             *** 
+                                                            *****
+                                                           *******
+                                                          ********* 
+                                                           *******
+                                                            *****
+                                                             ***
+                                                              * 
+
+...............................................................................................................................
+08.                                 33. Write a C program to display Pascal's triangle. Go to the editor
+                                              Test Data :
+                                              Input number of rows: 5
+                                              Expected Output :
+
+                                                                        1
+                                                                      1   1 
+                                                                    1   2   1 
+                                                                  1   3   3   1
+                                                                1   4   6   4   1 
+...............................................................................................................................
